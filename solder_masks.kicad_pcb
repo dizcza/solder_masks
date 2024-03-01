@@ -6,7 +6,7 @@
 		(thickness 1.6)
 		(legacy_teardrops no)
 	)
-	(paper "A4")
+	(paper "A5")
 	(layers
 		(0 "F.Cu" signal)
 		(31 "B.Cu" signal)
@@ -142,7 +142,7 @@
 	(footprint "MyFootprints:CAM-M8C"
 		(layer "F.Cu")
 		(uuid "16261a9f-c8ee-4f4b-831e-58e190a9fac8")
-		(at 148.082 105.2322)
+		(at 91.7084 73.3044)
 		(tags "CAM-M8C-0 ")
 		(property "Reference" "U1"
 			(at 0.134881 0.8125 0)
@@ -670,7 +670,7 @@
 			)
 			(polygon
 				(pts
-					(xy 144.316881 98.0447) (xy 151.516881 98.0447) (xy 151.516881 101.9447) (xy 144.316881 101.9447)
+					(xy 87.943281 66.1169) (xy 95.143281 66.1169) (xy 95.143281 70.0169) (xy 87.943281 70.0169)
 				)
 			)
 		)
@@ -696,7 +696,7 @@
 	(footprint "MyFootprints:RV-3032"
 		(layer "F.Cu")
 		(uuid "330f39a4-fb3c-4b9b-a67c-38932b2f3f31")
-		(at 112.7602 69.1604 -90)
+		(at 56.3866 37.2326 -90)
 		(property "Reference" "U1"
 			(at 2.4384 -0.1016 0)
 			(unlocked yes)
@@ -910,7 +910,7 @@
 	(footprint "MyFootprints:G-NiceRF-GPS"
 		(layer "F.Cu")
 		(uuid "3b6e1f3c-ba5a-42fc-b65d-e24dbe6571e7")
-		(at 107.939 98.2862)
+		(at 51.5654 66.3584)
 		(property "Reference" "U4"
 			(at 7.5 -2.25 0)
 			(unlocked yes)
@@ -1417,7 +1417,7 @@
 	(footprint "RF_GPS:ublox_NEO"
 		(layer "F.Cu")
 		(uuid "5031459a-470a-45bb-ab1c-78d6bd2e4784")
-		(at 83.302541 105.08705 180)
+		(at 26.928941 73.15925 180)
 		(descr "ublox NEO 6/7/8, (https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29_0.pdf)")
 		(tags "GPS ublox NEO 6/7/8")
 		(property "Reference" "U6"
@@ -1940,7 +1940,7 @@
 	(footprint "MyFootprints:SX1276"
 		(layer "F.Cu")
 		(uuid "8521dc53-cbf8-45ac-9e30-b8df77e4c885")
-		(at 72.1454 54.0634)
+		(at 15.7718 22.1356)
 		(property "Reference" "U7"
 			(at 12.4 21.6 0)
 			(unlocked yes)
@@ -2447,7 +2447,7 @@
 		)
 	)
 	(gr_text "NEO-M8P"
-		(at 76.088941 90.50745 0)
+		(at 19.715341 58.57965 0)
 		(layer "F.Mask")
 		(uuid "45dffed0-0a42-4f11-bbce-be30a21298c1")
 		(effects
@@ -2460,7 +2460,7 @@
 		)
 	)
 	(gr_text "CAM-M8"
-		(at 141.26574 91.43865 0)
+		(at 84.89214 59.51085 0)
 		(layer "F.Mask")
 		(uuid "a29cf624-5a79-4b3f-a5be-366d32a18d3a")
 		(effects
@@ -2473,7 +2473,7 @@
 		)
 	)
 	(gr_text "G-NiceRF"
-		(at 108.2548 90.6526 0)
+		(at 51.8812 58.7248 0)
 		(layer "F.Mask")
 		(uuid "a74715aa-4f64-4969-9cc6-2e9263f3f7e7")
 		(effects
@@ -2486,7 +2486,7 @@
 		)
 	)
 	(gr_text "LoRa"
-		(at 78.8416 52.5018 0)
+		(at 22.468 20.574 0)
 		(layer "F.Mask")
 		(uuid "e43b0555-c37a-4d31-8830-481efd256f93")
 		(effects
@@ -2499,7 +2499,7 @@
 		)
 	)
 	(gr_text "RV-3032"
-		(at 107.6548 60.88 0)
+		(at 51.2812 28.9522 0)
 		(layer "F.Mask")
 		(uuid "eaf75965-4434-4ea2-9f24-656e421420ca")
 		(effects
